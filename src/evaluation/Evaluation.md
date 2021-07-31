@@ -2,5 +2,5 @@
 
 **First Name**: ${firstName}
 **Last Name**: ${lastName}
-**Tech Interview**: ${techInterview}
-**Tech Test**: ${techTest}
+**Tech Interview**: ${techInterviewScore}
+**Tech Test**: ${techTestScore}
