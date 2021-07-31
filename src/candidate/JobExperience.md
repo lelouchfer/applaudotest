@@ -2,4 +2,4 @@
 
 |Enterprise|Job Position|Years of Service|
 |:---|:---|---:|
-|${enterpriseArray|${jobPositionArray}|${yearsOfService}|
+|${enterpriseArray}|${jobPositionArray}|${yearsOfService}|
